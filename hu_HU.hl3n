@@ -1,0 +1,158 @@
+﻿{
+  "Language": {
+    "Name": "magyar",
+    "EnglishName": "Hungarian"
+  },
+  "Translations": {
+    // Language list
+    "languages.osdefault": {
+      "Comment": "OS default",
+      "Value": "OS alapértelmezett"
+    },
+    // Modpack panel
+    "modpack.title": {
+      "Comment": "Modpacks",
+      "Value": "Modpackok"
+    },
+    // Modpack panel -> sidebar
+    "modpack.play": {
+      "Comment": "Play",
+      "Value": "Játék indítása"
+    },
+    "modpack.search": {
+      "Comment": "Search modpack...",
+      "Value": "Modpack keresése..."
+    },
+    "modpack.download.access": {
+      "Comment": "Downloading modpack... File: %file%",
+      "Value": "Játék forrásainak letöltése... Fájl: %file%"
+    },
+    "modpack.validation.access": {
+      "Comment": "Validating modpack... File: %file%",
+      "Value": "Játék forrásainak ellenőrzése... Fájl: %file%"
+    },
+    "assets.download.access": {
+      "Comment": "Downloading assets... File: %file%",
+      "Value": "Játék forrásainak letöltése... Fájl: %file%"
+    },
+    "assets.validation.access": {
+      "Comment": "Validating assets... File: %file%",
+      "Value": "Játék forrásainak ellenőrzése... Fájl: %file%"
+    },
+    "libraries.download.access": {
+      "Comment": "Downloading libraries... File: %file%",
+      "Value": "Játék forrásainak letöltése... File: %file%"
+    },
+    "libraries.validation.access": {
+      "Comment": "Validating libraries... File: %file%",
+      "Value": "Játék forrásainak ellenőrzése... File: %file%"
+    },
+    "modpack.official": {
+      "Comment": "Official",
+      "Value": "Hivatalos"
+    },
+    "modpack.offline": {
+      "Comment": "Offline",
+      "Value": "Nem elérhető"
+    },
+    "modpack.solder": {
+      "Comment": "TechnicSolder",
+      "Value": null
+    },
+    // Login panel
+    "login.info": {
+      "Comment": "Please login using your Minecraft.NET account.",
+      "Value": "Kérjük jelentkezzen be Minecraft.NET fiókjával."
+    },
+    "login.email": {
+      "Comment": "E-mail",
+      "Value": null
+    },
+    "login.password": {
+      "Comment": "Password",
+      "Value": "Jelszó"
+    },
+    "login.button": {
+      "Comment": "Login",
+      "Value": "Belépés"
+    },
+    "login.errortitle": {
+      "Comment": "Error occurred | %launcher_name% %launcher_version_displayed%",
+      "Value": "Hiba lépett fel | %launcher_name% %launcher_version_displayed%"
+    },
+    "login.missingusername": {
+      "Comment": "Please enter username.",
+      "Value": "Kérjük add meg az e-mail címed."
+    },
+    "login.missingpassword": {
+      "Comment": "Please enter password.",
+      "Value": "Kérjük add meg a jelszavad."
+    },
+    // Settings page
+    "settings.title": {
+      "Comment": "Settings",
+      "Value": "Beállítások"
+    },
+    "settings.channel.label": {
+      "Comment": "Select update channel:",
+      "Value": "Frissítési csatorna kiválasztása:"
+    },
+    "settings.channel.stable": {
+      "Comment": "STABLE",
+      "Value": "Stabil"
+    },
+    "settings.channel.beta": {
+      "Comment": "BETA",
+      "Value": "BÉTA"
+    },
+    "settings.ram.label": {
+      "Comment": "Select memory amount:",
+      "Value": "Válaszd ki a kívánt memória mennyiséget:"
+    },
+    "settings.languages.label": {
+      "Comment": "Select language:",
+      "Value": "Nyelv kiválasztása:"
+    },
+    "settings.languages.item": {
+      "Comment": "{0} ({1})",
+      "Value": "{0} ({1})"
+    },
+    "settings.languages.shortitem": {
+      "Comment": "{0}",
+      "Value": "{0}"
+    },
+    "settings.language.changed_warning": {
+      "Comment": "Please reload the launcher for the changes to take effect, unless it won't show everything properly.",
+      "Value": "Kérlek, indítsd újra a launchert a válozások érvénybe lépéséhez, enélkül nem fog minden normálisan megjelenni."
+    },
+    "settings.language.changed_title": {
+      "Comment": "Language changed!",
+      "Value": "Nyelv megváltoztatva!"
+    },
+    "main.title": {
+      "Comment": "Main",
+      "Value": "Kezdőlap"
+    },
+    "news.title": {
+      "Comment": "News",
+      "Value": "Hírek"
+    },
+    "profile.addnew": {
+      "Comment": "Add new profile",
+      "Value": "Profil hozzáadása"
+    },
+    // Clarifications
+    "clarification.not-associated-with-mojang": {
+      "Comment": "\"HunLux Launcher\" IS NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG",
+      "Value": "A \"HunLux Launcher\" NEM EGY HIVATALOS MINECRAFT TERMÉK. NINCS JÓVÁHAGYVA A MOJANG ÁLTAL, VALAMINT NEM IS KÖTŐDIK HOZZÁJUK SEMMILYEN FORMÁBAN"
+    },
+    "clarification.minecraft-trademark-mojang": {
+      "Comment": "\"Minecraft\" is a trademark of Mojang Synergies AB",
+      "Value": "A \"Minecraft\" a Mojang Synergies AB védjegye"
+    },
+    "clarification.hll-product-czompisoftware": {
+      "Comment": "\"HunLux Launcher\" is a product of Czompi Software",
+      "Value": "A \"HunLux Launcher\" a Czompi Software terméke"
+    }
+  }
+}
