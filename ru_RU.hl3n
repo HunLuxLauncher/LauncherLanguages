@@ -62,7 +62,7 @@
     // Login panel
     "login.info": {
       "Comment": "Please login using your Minecraft.NET account.",
-      "Value": "Авторизуйтесь используя свой Minecraft.NET аккаунт"
+      "Value": "Авторизуйтесь, используя свой Minecraft.NET аккаунт"
     },
     "login.email": {
       "Comment": "E-mail",
