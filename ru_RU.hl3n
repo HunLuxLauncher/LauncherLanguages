@@ -1,0 +1,158 @@
+{
+  "Language": {
+    "Name": "Русский",
+    "EnglishName": "Russian"
+  },
+  "Translations": {
+    // Language list
+    "languages.osdefault": {
+      "Comment": "OS default",
+      "Value": "Язык системы"
+    },
+    // Modpack panel
+    "modpack.title": {
+      "Comment": "Modpacks",
+      "Value": "Модпаки"
+    },
+    // Modpack panel -> sidebar
+    "modpack.play": {
+      "Comment": "Play",
+      "Value": "Играть"
+    },
+    "modpack.search": {
+      "Comment": "Search modpack...",
+      "Value": "Поиск модпака..."
+    },
+    "modpack.download.access": {
+      "Comment": "Downloading modpack... File: %file%",
+      "Value": "Загрузка модпака... Файл: %file%"
+    },
+    "modpack.validation.access": {
+      "Comment": "Validating modpack... File: %file%",
+      "Value": "Проверка целостности модпака... Файл: %file%"
+    },
+    "assets.download.access": {
+      "Comment": "Downloading assets... File: %file%",
+      "Value": "Загрузка ассетов... Файл: %file%"
+    },
+    "assets.validation.access": {
+      "Comment": "Validating assets... File: %file%",
+      "Value": "Проверка целостности ассетов... Файл: %file%"
+    },
+    "libraries.download.access": {
+      "Comment": "Downloading libraries... File: %file%",
+      "Value": "Загрузка библиотек... Файл: %file%"
+    },
+    "libraries.validation.access": {
+      "Comment": "Validating libraries... File: %file%",
+      "Value": "Проверка целостности библиотек... Файл: %file%"
+    },
+    "modpack.official": {
+      "Comment": "Official",
+      "Value": "Официальный"
+    },
+    "modpack.offline": {
+      "Comment": "Offline",
+      "Value": "Офлайн"
+    },
+    "modpack.solder": {
+      "Comment": "TechnicSolder",
+      "Value": null
+    },
+    // Login panel
+    "login.info": {
+      "Comment": "Please login using your Minecraft.NET account.",
+      "Value": "Авторизуйтесь, используя свой Minecraft.NET аккаунт"
+    },
+    "login.email": {
+      "Comment": "E-mail",
+      "Value": null
+    },
+    "login.password": {
+      "Comment": "Password",
+      "Value": "Пароль"
+    },
+    "login.button": {
+      "Comment": "Login",
+      "Value": "Логин"
+    },
+    "login.errortitle": {
+      "Comment": "Error occurred | %launcher_name% %launcher_version_displayed%",
+      "Value": "Произошла ошибка | %launcher_name% %launcher_version_displayed%"
+    },
+    "login.missingusername": {
+      "Comment": "Please enter username.",
+      "Value": "Введите имя пользователя."
+    },
+    "login.missingpassword": {
+      "Comment": "Please enter password.",
+      "Value": "Введите пароль."
+    },
+    // Settings page
+    "settings.title": {
+      "Comment": "Settings",
+      "Value": "Настройки"
+    },
+    "settings.channel.label": {
+      "Comment": "Select update channel:",
+      "Value": "Выберите канал обновлений:"
+    },
+    "settings.channel.stable": {
+      "Comment": "STABLE",
+      "Value": "СТАБИЛЬНЫЙ"
+    },
+    "settings.channel.beta": {
+      "Comment": "BETA",
+      "Value": "БЕТА"
+    },
+    "settings.ram.label": {
+      "Comment": "Select memory amount:",
+      "Value": "Количество выделяемой памяти:"
+    },
+    "settings.languages.label": {
+      "Comment": "Select language:",
+      "Value": "Выберите язык:"
+    },
+    "settings.languages.item": {
+      "Comment": "{0} ({1})",
+      "Value": "{0} ({1})"
+    },
+    "settings.languages.shortitem": {
+      "Comment": "{0}",
+      "Value": "{0}"
+    },
+    "settings.language.changed_warning": {
+      "Comment": "Please reload the launcher for the changes to take effect, unless it won't show everything properly.",
+      "Value": "Перезапустите лаунчер, что бы изменения вошли в силу."
+    },
+    "settings.language.changed_title": {
+      "Comment": "Language changed!",
+      "Value": "Язык изменён!"
+    },
+    "main.title": {
+      "Comment": "Main",
+      "Value": "Главная"
+    },
+    "news.title": {
+      "Comment": "News",
+      "Value": "Новости"
+    },
+    "profile.addnew": {
+      "Comment": "Add new profile",
+      "Value": "Добавить новый аккаунт"
+    },
+    // Clarifications
+    "clarification.not-associated-with-mojang": {
+      "Comment": "\"HunLux Launcher\" IS NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG",
+      "Value": "\"HunLux Launcher\" НЕ ЯВЛЯЕТСЯ ОФИЦИАЛЬНЫМ ПРОДУКТОМ MINECRAFT. НЕ УТВЕРЖДЕНО ИЛИ СВЯЗАНО С MOJANG"
+    },
+    "clarification.minecraft-trademark-mojang": {
+      "Comment": "\"Minecraft\" is a trademark of Mojang Synergies AB",
+      "Value": "\"Minecraft\" является торговой маркой Mojang Synergies AB"
+    },
+    "clarification.hll-product-czompisoftware": {
+      "Comment": "\"HunLux Launcher\" is a product of Czompi Software",
+      "Value": "\"HunLux Launcher\" является продуктом Czompi Software"
+    }
+  }
+}
