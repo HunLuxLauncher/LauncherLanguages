@@ -6,153 +6,173 @@
   "Translations": {
     // Language list
     "languages.osdefault": {
-      "Comment": "OS default",
-      "Value": "OS default"
+      "Original": "OS default",
+      "Translated": null
     },
     // Modpack panel
     "modpack.title": {
-      "Comment": "Modpacks",
-      "Value": "Modpacks"
+      "Original": "Modpacks",
+      "Translated": null
     },
     // Modpack panel -> sidebar
     "modpack.play": {
-      "Comment": "Play",
-      "Value": "Play"
+      "Original": "Play",
+      "Translated": null
     },
     "modpack.search": {
-      "Comment": "Search modpack...",
-      "Value": "Search modpack..."
+      "Original": "Search modpack...",
+      "Translated": null
     },
     "modpack.download.access": {
-      "Comment": "Downloading modpack... File: %file%",
-      "Value": "Downloading modpack... File: %file%"
+      "Original": "Downloading modpack... File: %file%",
+      "Translated": null
     },
     "modpack.validation.access": {
-      "Comment": "Validating modpack... File: %file%",
-      "Value": "Validating modpack... File: %file%"
+      "Original": "Validating modpack... File: %file%",
+      "Translated": null
     },
     "assets.download.access": {
-      "Comment": "Downloading assets... File: %file%",
-      "Value": "Downloading assets... File: %file%"
+      "Original": "Downloading assets... File: %file%",
+      "Translated": null
     },
     "assets.validation.access": {
-      "Comment": "Validating assets... File: %file%",
-      "Value": "Validating assets... File: %file%"
+      "Original": "Validating assets... File: %file%",
+      "Translated": null
     },
     "libraries.download.access": {
-      "Comment": "Downloading libraries... File: %file%",
-      "Value": "Downloading libraries... File: %file%"
+      "Original": "Downloading libraries... File: %file%",
+      "Translated": null
     },
     "libraries.validation.access": {
-      "Comment": "Validating libraries... File: %file%",
-      "Value": "Validating libraries... File: %file%"
+      "Original": "Validating libraries... File: %file%",
+      "Translated": null
     },
     "modpack.official": {
-      "Comment": "Official",
-      "Value": "Official"
+      "Original": "Official",
+      "Translated": null
     },
     "modpack.offline": {
-      "Comment": "Offline",
-      "Value": "Offline"
+      "Original": "Offline",
+      "Translated": null
     },
     "modpack.solder": {
-      "Comment": "TechnicSolder",
-      "Value": null
+      "Original": "TechnicSolder",
+      "Translated": null
     },
     // Login panel
-    "login.info": {
-      "Comment": "Please login using your Minecraft.NET account.",
-      "Value": "Please login using your Minecraft.NET account."
+    "login.mojang.info": {
+      "Original": "Please login using your Minecraft.NET account.",
+      "Translated": null
     },
-    "login.email": {
-      "Comment": "E-mail",
-      "Value": null
+    "login.mojang.email": {
+      "Original": "E-mail",
+      "Translated": null
     },
-    "login.password": {
-      "Comment": "Password",
-      "Value": "Password"
+    "login.mojang.password": {
+      "Original": "Password",
+      "Translated": null
     },
-    "login.button": {
-      "Comment": "Login",
-      "Value": "Login"
+    "login.mojang.button": {
+      "Original": "Login",
+      "Translated": null
     },
-    "login.errortitle": {
-      "Comment": "Error occurred | %launcher_name% %launcher_version_displayed%",
-      "Value": "Error occurred | %launcher_name% %launcher_version_displayed%"
+    "login.mojang.errortitle": {
+      "Original": "Error occurred | %launcher_name% %launcher_version_displayed%",
+      "Translated": null
     },
-    "login.missingusername": {
-      "Comment": "Please enter username.",
-      "Value": "Please enter username."
+    "login.mojang.missingusername": {
+      "Original": "Please enter username.",
+      "Translated": null
     },
-    "login.missingpassword": {
-      "Comment": "Please enter password.",
-      "Value": "Please enter password."
+    "login.mojang.missingpassword": {
+      "Original": "Please enter password.",
+      "Translated": null
+    },
+    "login.microsoft.info": {
+      "Original": "Please login using your Microsoft Account. This will open a new window in your default browser.",
+      "Translated": null
+    },
+    "login.microsoft.button": {
+      "Original": "Login with Microsoft Account",
+      "Translated": null
+    },
+    "login.microsoft.authentication_in_progress": {
+      "Original": "Authentication in progress. Please wait...",
+      "Translated": null
+    },
+    "login.microsoft.authentication_failed": {
+      "Original": "Authentication failed! Refer the log file if you'd like to get more info about the error.",
+      "Translated": null
+    },
+    "login.microsoft.not_paid_account": {
+      "Original": "Please buy Minecraft. This launcher requires paid Minecraft.",
+      "Translated": null
     },
     // Settings page
     "settings.title": {
-      "Comment": "Settings",
-      "Value": "Settings"
+      "Original": "Settings",
+      "Translated": "Settings"
     },
     "settings.channel.label": {
-      "Comment": "Select update channel:",
-      "Value": "Select update channel:"
+      "Original": "Select update channel:",
+      "Translated": "Select update channel:"
     },
     "settings.channel.stable": {
-      "Comment": "STABLE",
-      "Value": "STABLE"
+      "Original": "STABLE",
+      "Translated": "STABLE"
     },
     "settings.channel.beta": {
-      "Comment": "BETA",
-      "Value": "BETA"
+      "Original": "BETA",
+      "Translated": "BETA"
     },
     "settings.ram.label": {
-      "Comment": "Select memory amount:",
-      "Value": "Select memory amount:"
+      "Original": "Select memory amount:",
+      "Translated": "Select memory amount:"
     },
     "settings.languages.label": {
-      "Comment": "Select language:",
-      "Value": "Select language:"
+      "Original": "Select language:",
+      "Translated": "Select language:"
     },
     "settings.languages.item": {
-      "Comment": "{0} ({1})",
-      "Value": "{0} ({1})"
+      "Original": "{0} ({1})",
+      "Translated": "{0} ({1})"
     },
     "settings.languages.shortitem": {
-      "Comment": "{0}",
-      "Value": "{0}"
+      "Original": "{0}",
+      "Translated": "{0}"
     },
     "settings.language.changed_warning": {
-      "Comment": "Please reload the launcher for the changes to take effect, unless it won't show everything properly.",
-      "Value": "Please reload the launcher for the changes to take effect, unless it won't show everything properly."
+      "Original": "Please reload the launcher for the changes to take effect, unless it won't show everything properly.",
+      "Translated": "Please reload the launcher for the changes to take effect, unless it won't show everything properly."
     },
     "settings.language.changed_title": {
-      "Comment": "Language changed!",
-      "Value": "Language changed!"
+      "Original": "Language changed!",
+      "Translated": "Language changed!"
     },
     "main.title": {
-      "Comment": "Main",
-      "Value": "Main"
+      "Original": "Main",
+      "Translated": "Main"
     },
     "news.title": {
-      "Comment": "News",
-      "Value": "News"
+      "Original": "News",
+      "Translated": "News"
     },
     "profile.addnew": {
-      "Comment": "Add new profile",
-      "Value": "Add new profile"
+      "Original": "Add new profile",
+      "Translated": "Add new profile"
     },
     // Clarifications
     "clarification.not-associated-with-mojang": {
-      "Comment": "\"HunLux Launcher\" IS NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG",
-      "Value": "\"HunLux Launcher\" IS NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG"
+      "Original": "\"HunLux Launcher\" IS NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG",
+      "Translated": "\"HunLux Launcher\" IS NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG"
     },
     "clarification.minecraft-trademark-mojang": {
-      "Comment": "\"Minecraft\" is a trademark of Mojang Synergies AB",
-      "Value": "\"Minecraft\" is a trademark of Mojang Synergies AB"
+      "Original": "\"Minecraft\" is a trademark of Mojang Synergies AB",
+      "Translated": "\"Minecraft\" is a trademark of Mojang Synergies AB"
     },
     "clarification.hll-product-czompisoftware": {
-      "Comment": "\"HunLux Launcher\" is a product of Czompi Software",
-      "Value": "\"HunLux Launcher\" is a product of Czompi Software"
+      "Original": "\"HunLux Launcher\" is a product of Czompi Software",
+      "Translated": "\"HunLux Launcher\" is a product of Czompi Software"
     }
   }
 }
