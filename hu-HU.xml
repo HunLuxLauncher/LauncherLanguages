@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+
+    <!-- #region Common properties -->
+    <!-- *Do not translate this part. These are GitHub usernames! Use `;` - semicolon - to separate contributors* -->
+    <Property Name="translation-info.credits">Czompi</Property>
+    
+    <!-- System default -->
+    <Property Name="languages.system-default">Rendszer alapértelmezett</Property>
+    <!-- #endregion -->
+
+    <!-- #region Clarifications -->
+    <!-- "HunLux Launcher" IS NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG -->
+    <Property Name="languages.not-associated-with-mojang">"HunLux Launcher" IS NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG</Property>
+    <!-- "Minecraft" is a trademark of Mojang Synergies AB -->
+    <Property Name="languages.minecraft-trademark-mojang">"Minecraft" is a trademark of Mojang Synergies AB</Property>
+    <!-- "HunLux Launcher" is a product of Czompi Software -->
+    <Property Name="languages.hl2-product-czompisoftware">"HunLux Launcher" is a product of Czompi Software</Property>
+    <!-- #endregion -->
+
+    <!-- #region Login panel-->
+    <!-- Our launcher only supports accounts, that use Microsoft Account to authenticate, so accounts that've been migrated to the new authenticaiton system. -->
+    <Property Name="login.only-microsoft-account">A launcherünk csak olyan fiókokat támogat, melyek Microsoft Fiókkal működnek, vagyis át lettek már migrálva az új hitelesítési formára.</Property>
+    <!-- Login with Microsoft Account -->
+    <Property Name="login.with-microsoft-account">Lépj be Microsoft Fiókkal</Property>
+    <!-- #endregion -->
+
+    <!-- #region Modpack panel -->
+
+    <!-- Modpacks -->
+    <Property Name="modpack.title">Modpackok</Property>
+    <!-- Play -->
+    <Property Name="modpack.play">Játék indítása</Property>
+    <!-- Search modpack... -->
+    <Property Name="modpack.search">Modpack keresése...</Property>
+
+    <!-- Official -->
+    <Property Name="modpack.official">Hivatalos</Property>
+    <!-- Offline -->
+    <Property Name="modpack.offline">Nem elérhető</Property>
+    
+    <!-- Downloading assets... File: {file} -->
+    <Property Name="modpack.download.assets">Erőforrások letöltése... File: {file}</Property>
+    <!-- Validating assets... File: {file} -->
+    <Property Name="modpack.validate.assets">Erőforrások ellenőrzése... File: {file}</Property>
+    
+    <!-- Downloading dependencies... File: {file} -->
+    <Property Name="modpack.download.libraries">Függőségek letöltése... File: {file}</Property>
+    <!-- Validating dependencies... File: {file} -->
+    <Property Name="modpack.validate.libraries">Függőségek ellenőrzése... File: {file}</Property>
+    
+    <!-- Downloading modpack... File: {file} -->
+    <Property Name="modpack.download.modpack">Modpack letöltése... File: {file}</Property>
+    <!-- Validating modpack... File: {file} -->
+    <Property Name="modpack.validate.modpack">Modpack ellenőrzése... File: {file}</Property>
+    
+    <!-- #endregion -->
+
+    <!-- #region Settings window -->
+    <!-- Settings -->
+    <Property Name="settings.title">Beállítások</Property>
+    
+    <!-- Update channel: -->
+    <Property Name="settings.channel.label">Frissítési csatorna:</Property>
+    <!-- Production -->
+    <Property Name="settings.channel.type.production">Production</Property>
+    <!-- Staging -->
+    <Property Name="settings.channel.type.staging">Staging</Property>
+    
+    <!-- Memory: -->
+    <Property Name="settings.memory.label">Memória:</Property>
+
+    <!-- Language: -->
+    <Property Name="settings.language.label">Nyelv:</Property>
+    <!-- Language changed -->
+    <Property Name="settings.language.changed.title">Nyelv megváltozott</Property>
+    <!-- Please restart the launcher for the changes to take effect -->
+    <Property Name="settings.language.changed.message">Kérlek, indítsd újra a launchert a változások érvénybe léptetéséhez.</Property>
+    <!-- #endregion -->
+
+    <!-- #region Profile popup -->
+    <!-- Add new profile -->
+    <Property Name="profile.add-new">Új profil hozzáadása</Property>
+    <!-- #endregion -->
+
+</Properties>

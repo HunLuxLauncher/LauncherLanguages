@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+
+    <!-- #region Common properties -->
+    <!-- *Do not translate this part. These are GitHub usernames! Use `;` - semicolon - for more than one contributors* -->
+    <Property Name="translation-info.credits">Czompi</Property>
+    
+    <!-- System default -->
+    <Property Name="languages.system-default">System default</Property>
+    <!-- #endregion -->
+
+    <!-- #region Clarifications -->
+    <!-- "HunLux Launcher" IS NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG -->
+    <Property Name="languages.not-associated-with-mojang">"HunLux Launcher" IS NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG</Property>
+    <!-- "Minecraft" is a trademark of Mojang Synergies AB -->
+    <Property Name="languages.minecraft-trademark-mojang">"Minecraft" is a trademark of Mojang Synergies AB</Property>
+    <!-- "HunLux Launcher" is a product of Czompi Software -->
+    <Property Name="languages.hl2-product-czompisoftware">"HunLux Launcher" is a product of Czompi Software</Property>
+    <!-- #endregion -->
+
+    <!-- #region Login panel-->
+    <!-- Our launcher only supports accounts, that've already migrated or purchased after 2020, so using Microsoft Account to login to Minecraft Launcher -->
+    <Property Name="login.only-microsoft-account">Our launcher only supports accounts, that've already migrated or purchased after 2020, so using Microsoft Account to login to Minecraft Launcher.</Property>
+    <!-- Login with Microsoft Account -->
+    <Property Name="login.with-microsoft-account">Login with Microsoft Account</Property>
+    <!-- #endregion -->
+
+    <!-- #region Modpack panel -->
+
+    <!-- Modpacks -->
+    <Property Name="modpack.title">Modpacks</Property>
+    <!-- Play -->
+    <Property Name="modpack.play">Play</Property>
+    <!-- Search modpack... -->
+    <Property Name="modpack.search">Search modpack...</Property>
+
+    <!-- Official -->
+    <Property Name="modpack.official">Official</Property>
+    <!-- Offline -->
+    <Property Name="modpack.offline">Offline</Property>
+    
+    <!-- Downloading assets... File: {file} -->
+    <Property Name="modpack.download.assets">Downloading assets... File: {file}</Property>
+    <!-- Validating assets... File: {file} -->
+    <Property Name="modpack.validate.assets">Validating assets... File: {file}</Property>
+    
+    <!-- Downloading dependencies... File: {file} -->
+    <Property Name="modpack.download.libraries">Downloading dependencies... File: {file}</Property>
+    <!-- Validating dependencies... File: {file} -->
+    <Property Name="modpack.validate.libraries">Validating dependencies... File: {file}</Property>
+    
+    <!-- Downloading modpack... File: {file} -->
+    <Property Name="modpack.download.modpack">Downloading modpack... File: {file}</Property>
+    <!-- Validating modpack... File: {file} -->
+    <Property Name="modpack.validate.modpack">Validating modpack... File: {file}</Property>
+    
+    <!-- #endregion -->
+
+    <!-- #region Settings window -->
+    <!-- Settings -->
+    <Property Name="settings.title">Settings</Property>
+    
+    <!-- Update channel: -->
+    <Property Name="settings.channel.label">Update channel:</Property>
+    <!-- Production -->
+    <Property Name="settings.channel.type.production">Production</Property>
+    <!-- Staging -->
+    <Property Name="settings.channel.type.staging">Staging</Property>
+    
+    <!-- Memory: -->
+    <Property Name="settings.memory.label">Memory:</Property>
+
+    <!-- Language: -->
+    <Property Name="settings.language.label">Language:</Property>
+    <!-- Language changed -->
+    <Property Name="settings.language.changed.title">Language changed</Property>
+    <!-- Please restart the launcher for the changes to take effect -->
+    <Property Name="settings.language.changed.message">Please restart the launcher for the changes to take effect.</Property>
+    <!-- #endregion -->
+
+    <!-- #region Profile popup -->
+    <!-- Add new profile -->
+    <Property Name="profile.add-new">Add new profile</Property>
+    <!-- #endregion -->
+
+</Properties>
